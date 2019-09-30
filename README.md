@@ -1,2 +1,2 @@
 # CollegeQuora
-inno
+Quora for college
